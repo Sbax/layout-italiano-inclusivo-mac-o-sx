@@ -4,6 +4,7 @@ Layout tastiera italiano con facile accesso alla schwa (ə) e schwa lunga (ɜ), 
 
 # Come installare
 
+Scarica lo zip dalle [release](https://github.com/Sbax/layout-italiano-inclusivo-mac-o-sx/releases/latest).\
 Sposta il file `Italiano Inclusivo.bundle` nella cartella `~/Library/Keyboard Layouts` e riavvia il Mac.\
 Per trovare la cartella rapidamente apri il terminale e digita `open ~/Library/Keyboard\ Layouts`.
 
